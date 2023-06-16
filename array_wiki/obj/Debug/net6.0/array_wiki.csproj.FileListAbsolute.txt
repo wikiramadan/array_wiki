@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\array_wiki\array_wiki\bin\Debug\net6.0\array_wiki.exe
+C:\Users\USER\source\repos\array_wiki\array_wiki\bin\Debug\net6.0\array_wiki.deps.json
+C:\Users\USER\source\repos\array_wiki\array_wiki\bin\Debug\net6.0\array_wiki.runtimeconfig.json
+C:\Users\USER\source\repos\array_wiki\array_wiki\bin\Debug\net6.0\array_wiki.dll
+C:\Users\USER\source\repos\array_wiki\array_wiki\bin\Debug\net6.0\array_wiki.pdb
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\array_wiki.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\array_wiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\array_wiki.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\array_wiki.AssemblyInfo.cs
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\array_wiki.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\array_wiki.dll
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\refint\array_wiki.dll
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\array_wiki.pdb
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\array_wiki.genruntimeconfig.cache
+C:\Users\USER\source\repos\array_wiki\array_wiki\obj\Debug\net6.0\ref\array_wiki.dll
